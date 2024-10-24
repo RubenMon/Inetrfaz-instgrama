@@ -1,0 +1,4 @@
+#Thu Oct 24 22:11:47 CEST 2024
+base.0=C\:\\Users\\ruben\\Desktop\\interfazInstgram\\flutter_application_1\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

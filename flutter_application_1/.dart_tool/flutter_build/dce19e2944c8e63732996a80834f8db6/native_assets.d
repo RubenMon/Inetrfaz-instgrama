@@ -1,0 +1,1 @@
+ C:\\Users\\ruben\\Desktop\\interfazInstgram\\flutter_application_1\\.dart_tool\\flutter_build\\dce19e2944c8e63732996a80834f8db6\\native_assets.yaml: 
